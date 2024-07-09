@@ -1,0 +1,9 @@
+{
+    "user_id": "12345",
+    "device_type": "mobile",
+    "ip": "192.168.1.1",
+    "device_id": "abc123",
+    "locale": "en_US",
+    "app_version": "1.0",
+    "create_date": "2024-07-09T12:00:00Z"
+}
