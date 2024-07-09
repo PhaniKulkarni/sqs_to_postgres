@@ -1,4 +1,4 @@
-##This application reads JSON data from an AWS SQS queue and stores the information in a PostgreSQL database. It masks sensitive information (PII) using SHA-256 hashing before saving it.
+#This application reads JSON data from an AWS SQS queue and stores the information in a PostgreSQL database. It masks sensitive information (PII) using SHA-256 hashing before saving it.
 
 1. download the Docker Desktop application for your operating system
 2. Create below five files app.py, requirements.txt, Docker File, message.json and docker-compose.yml under one folder
